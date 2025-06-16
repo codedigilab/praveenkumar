@@ -2,11 +2,11 @@ document.write(`
 
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta http-equiv="x-ua-compatible" content="ie=edge">
-<title>CODE DIGI LAB</title>
+<title>Akshu Info</title>
 <meta name="author" content="Rakar">
-<meta name="keywords" content="CODE DIGI LAB">
+<meta name="keywords" content="Akshu Info">
 <meta name="robots" content="INDEX,FOLLOW">
-<meta name="title" content="Code Digi Lab Darbhanga Software Company">
+<meta name="title" content="Akshu Info Darbhanga Software Company">
 <meta name="language" content="English">
 
 <!-- Mobile Specific Metas -->
@@ -30,7 +30,7 @@ document.write(`
 <meta name="msapplication-TileColor" content="#ffffff">
 <meta name="msapplication-TileImage" content="assets/img/favicons/ms-icon-144x144.png">
 <meta name="theme-color" content="#ffffff">
-<meta name="description" content="CODE DIGI LAB Offer top-notch web application development services tailored to meet your unique business needs. Our team of experienced developers">
+<meta name="description" content="Akshu Info Offer top-notch web application development services tailored to meet your unique business needs. Our team of experienced developers">
 
 <!--==============================
   Google Fonts
@@ -58,7 +58,7 @@ document.write(`
 <script src="include/sender.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
 <script type="text/javascript">
-    var name = 'CODE DIGI LAB';
+    var name = 'Akshu Info';
     var email = 'c4codedigilab@gmail.com';
     var number1 = '8604226811';
     var number2 = '8604226811';
